@@ -24,3 +24,11 @@ div{
 .yellow{
     background-color: yellow;
 }
+/* ==========================
+    Responsive design 450px
+   ========================== */
+@media only screen and (min-width: 450px) {
+    .grid-container{
+        grid-template-columns: 1fr 1fr;
+    }
+  }
