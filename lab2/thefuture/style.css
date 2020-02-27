@@ -1,0 +1,22 @@
+body{
+    font-weight: 600;
+    text-align: center;
+}
+div{
+    padding: 20px;
+    margin: 10px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto;
+    
+}
+.red{
+    background-color: red;
+}
+.blue{
+    background-color: blue;
+}
+.yellow{
+    background-color: yellow;
+}
